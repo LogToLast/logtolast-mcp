@@ -11,6 +11,8 @@ Official **Model Context Protocol (MCP)** server documentation and configuration
 - **Hosted Streamable HTTP MCP Endpoint:** `https://logtolast.com/api/v1/mcp`
 - **AI & LLM Grounding Manifest:** [https://logtolast.com/llms.txt](https://logtolast.com/llms.txt) | [https://logtolast.com/llms-full.txt](https://logtolast.com/llms-full.txt)
 
+[![LogToLast MCP connector](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server)
+
 ---
 
 ## 🔍 What Does the LogToLast MCP Server Do?
