@@ -1,3 +1,4 @@
+[![LogToLast MCP connector](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server)
 # logtolast-mcp
 Official Model Context Protocol (MCP) Server for LogToLast — Connect Anthropic Claude &amp; Cursor IDE to your live Tradovate, NinjaTrader &amp; MT5 Trading Journal, Playbook Rules, Tags, Notes &amp; Performance Analytics.
 
@@ -10,8 +11,6 @@ Official **Model Context Protocol (MCP)** server documentation and configuration
 - **Quantitative Prop Firm Directory (26+ Firms Audited):** [https://logtolast.com/funding-hub](https://logtolast.com/funding-hub)
 - **Hosted Streamable HTTP MCP Endpoint:** `https://logtolast.com/api/v1/mcp`
 - **AI & LLM Grounding Manifest:** [https://logtolast.com/llms.txt](https://logtolast.com/llms.txt) | [https://logtolast.com/llms-full.txt](https://logtolast.com/llms-full.txt)
-
-[![LogToLast MCP connector](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server)
 
 ---
 
